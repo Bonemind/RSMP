@@ -33,6 +33,8 @@ It should now behave as a keyboard.
 
 This macropad uses KMK for it's firmware. KMK is a flexible circuitpython based project for mechanical keyboards that offers a lot of options. The basic firmware for the RSMP is simple, in that every button outputs a letter. To customize the behavior, you can modify `main.py`.
 
+As an example of layers, the bottom left button will output a space when tapped, and when held, the buttons will output numbers and various symbols instead of letters.
+
 ## Credits
 
   - [KMK](https://github.com/KMKfw/kmk_firmware) - Keyboard software
