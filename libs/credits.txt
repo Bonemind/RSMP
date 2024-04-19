@@ -1,0 +1,10 @@
+https://github.com/ncarandini/KiCad-RP-Pico
+
+https://github.com/foostan/kbd
+
+
+https://github.com/BelfrySCAD/BOSL2
+
+https://www.printables.com/model/86604-hexagonal-grid-generator-in-openscad/files
+
+https://danielupshaw.com/openscad-rounded-corners/
